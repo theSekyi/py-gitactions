@@ -1,5 +1,5 @@
 from script import load_dataset
-from sklearn.datasets import load_iris()
+from sklearn.datasets import load_iris
 
 data = load_iris()
 
